@@ -15,6 +15,9 @@ UI/UX
 Logic
 [Blackjack Project Playlist](https://www.youtube.com/watch?v=7YUonlGtnvQ&list=PL8CHnV0NEH1esB1gDk3piMU8a2o4x1W2S)
 
+Artwork
+[SVG Card Images](https://tekeye.uk/playing_cards/svg-playing-cards)
+
 Class Materials and Lectures
 
 Other misc websites for fonts and styling.
